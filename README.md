@@ -1,5 +1,7 @@
 # App-Release-GooglePlay #
-
+# login details #
+username : pgarfield@gmail.com
+password: password
 
  # How To Install #
  1. Download this apk
