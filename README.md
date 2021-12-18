@@ -7,7 +7,7 @@
 
 # Google PLay #
 Awaiting Review will update in near future with link to play page
-
+Image in file shows release is under review will update soon hopefully
 # login details #
 username : pgarfield@gmail.com
 password: password
