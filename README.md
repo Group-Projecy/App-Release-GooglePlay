@@ -1,2 +1,4 @@
-# App-Release-GooglePlay
- # App Release #
+# App-Release-GooglePlay #
+___
+#Install using File
+
